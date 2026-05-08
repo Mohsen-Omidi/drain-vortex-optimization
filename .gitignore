@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+conda-env/
+*.conda
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temporary outputs
+logs/
+*.log
+*.out
+*.err
+nohup.out
+
+# Large generated outputs
+results/
+results_tmp/
+tmp/
+cache/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS
+.DS_Store
+Thumbs.db

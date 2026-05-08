@@ -1,0 +1,19 @@
+\begin{table}[!t]
+\centering
+\scriptsize
+\caption{Engineering design results after adding SVOA. Values are best feasible objective values over 30 runs. Values in parentheses denote feasibility rate when it is below 1.00. Lower values are better.}
+\label{tab:engineering_with_svoa}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{lcccccccc}
+\toprule
+Problem & DVO & SVOA & PSO & GWO & WOA & SCA & AOA & EO \\
+\midrule
+pressure\_vessel & 6102 & 6093 (0.97) & \textbf{6060} & 6060 & 6843 & 6293 & 6065 & 6060 \\
+speed\_reducer & 2997 (0.90) & 3036 & \textbf{2994} & 2996 & 3104 (0.97) & 3063 & 2998 & 2995 \\
+tension\_spring & 0.01272 & 0.01274 & 0.01267 & 0.01268 & \textbf{0.01267} & 0.01282 & 0.01271 & 0.01267 \\
+three\_bar\_truss & 263.9 & 263.9 & \textbf{263.9} & 263.9 & 263.9 & 263.9 & 263.9 & 263.9 \\
+welded\_beam & 1.735 & 1.744 & \textbf{1.725} & 1.725 & 1.788 & 1.801 & 1.73 & 1.725 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

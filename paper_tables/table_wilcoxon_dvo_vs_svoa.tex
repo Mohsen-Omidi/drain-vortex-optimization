@@ -1,0 +1,24 @@
+\begin{table}[!t]
+\centering
+\scriptsize
+\caption{Pairwise Wilcoxon signed-rank comparison between DVO and SVOA. Negative mean differences favour DVO. Holm correction is applied within each suite or subset analysis.}
+\label{tab:wilcoxon_dvo_svoa}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{llcccc}
+\toprule
+Suite & Subset & Mean diff. & $p$ & $p_{Holm}$ & Sig. \\
+\midrule
+CEC2022 & overall & 0.027 & 8.899e-02 & 1.780e-01 & No \\
+CEC2022 & D10 & 0.203 & 1.331e-01 & 2.661e-01 & No \\
+CEC2022 & D20 & -0.148 & 2.119e-01 & 4.238e-01 & No \\
+CEC2017 & overall & -0.051 & 2.218e-03 & 2.911e-03 & Yes \\
+CEC2017 & D30 & 0.027 & 7.468e-02 & 9.196e-02 & No \\
+CEC2017 & D50 & -0.129 & 4.297e-03 & 8.594e-03 & Yes \\
+ENGINEERING & overall & 75.296 & 6.875e-01 & 1.000e+00 & No \\
+CLASSICAL & scalable\_D30 & 1.352 & 7.291e-01 & 1.000e+00 & No \\
+CLASSICAL & scalable\_D100 & -3.315 & 2.939e-01 & 1.000e+00 & No \\
+CLASSICAL & fixed\_dimensional & 4.024 & 9.951e-01 & 1.000e+00 & No \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

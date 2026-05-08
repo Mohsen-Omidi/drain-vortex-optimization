@@ -1,0 +1,24 @@
+\begin{table}[!t]
+\centering
+\scriptsize
+\caption{Friedman test results after adding SVOA. Lower ranks indicate better performance.}
+\label{tab:friedman_with_svoa}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{llcccc}
+\toprule
+Suite & Subset & Cases & Algorithms & Statistic & $p$-value \\
+\midrule
+CEC2022 & overall & 24 & 8 & 130.069 & 6.079e-25 \\
+CEC2022 & D10 & 12 & 8 & 64.861 & 1.604e-11 \\
+CEC2022 & D20 & 12 & 8 & 65.639 & 1.119e-11 \\
+CEC2017 & overall & 58 & 8 & 347.437 & 4.359e-71 \\
+CEC2017 & D30 & 29 & 8 & 177.356 & 7.044e-35 \\
+CEC2017 & D50 & 29 & 8 & 171.195 & 1.405e-33 \\
+ENGINEERING & overall & 5 & 8 & 23.133 & 1.616e-03 \\
+CLASSICAL & scalable\_D30 & 13 & 8 & 54.404 & 1.957e-09 \\
+CLASSICAL & scalable\_D100 & 13 & 8 & 72.696 & 4.206e-13 \\
+CLASSICAL & fixed\_dimensional & 10 & 8 & 53.494 & 2.961e-09 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

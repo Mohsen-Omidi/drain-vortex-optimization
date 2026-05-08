@@ -1,0 +1,6 @@
+problem,AOA,EO,GWO,MVDO,PSO,SCA,SVOA,WOA
+pressure_vessel,5.0,4.0,3.0,6.0,1.0,7.0,2.0,8.0
+speed_reducer,4.0,1.0,2.0,3.0,5.0,7.0,6.0,8.0
+tension_spring,6.0,3.0,1.0,7.0,2.0,4.0,5.0,8.0
+three_bar_truss,8.0,4.0,5.0,2.0,1.0,6.0,3.0,7.0
+welded_beam,6.0,2.0,3.0,5.0,1.0,7.0,4.0,8.0

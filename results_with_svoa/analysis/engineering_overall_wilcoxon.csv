@@ -1,0 +1,8 @@
+suite,subset,comparison,baseline,p_raw,mean_log_diff,p_holm,significant_0.05
+engineering,overall,MVDO vs WOA,WOA,0.03125,-29547.415181296143,0.21875,False
+engineering,overall,MVDO vs SCA,SCA,0.0625,-31.478397298295768,0.375,False
+engineering,overall,MVDO vs AOA,AOA,0.3125,-2.544042290221662,1.0,False
+engineering,overall,MVDO vs SVOA,SVOA,0.6875,75.29630410163256,1.0,False
+engineering,overall,MVDO vs PSO,PSO,0.84375,88.18169619876983,1.0,False
+engineering,overall,MVDO vs GWO,GWO,0.90625,84.52358926996598,1.0,False
+engineering,overall,MVDO vs EO,EO,0.9375,56.4692984397185,1.0,False
