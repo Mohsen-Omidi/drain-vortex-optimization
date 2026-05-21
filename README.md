@@ -151,7 +151,8 @@ If you use this code, please cite the associated preprint:
   title   = {Drain-Vortex Optimization: A Physics-Inspired Metaheuristic Based on Radial and Tangential Drain-Vortex Dynamics},
   author  = {Omidi, Mohsen and Vaughan, Brian},
   year    = {2026},
-  note    = {Preprint}
+  note    = {Preprint},
+  doi ={https://doi.org/10.48550/arXiv.2605.08883
 }
 ```
 
