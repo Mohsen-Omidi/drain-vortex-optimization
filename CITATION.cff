@@ -1,0 +1,25 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this code or find this work useful, please cite the associated arXiv preprint."
+title: "Drain-Vortex Optimization: A Population-Based Metaheuristic Inspired by Multi-Drain Free-Vortex Flow"
+authors:
+  - family-names: "Omidi"
+    given-names: "Mohsen"
+  - family-names: "Vaughan"
+    given-names: "Brian"
+year: 2026
+doi: "10.48550/arXiv.2605.08883"
+url: "https://arxiv.org/abs/2605.08883"
+repository-code: "https://github.com/Mohsen-Omidi/drain-vortex-optimization"
+preferred-citation:
+  type: article
+  title: "Drain-Vortex Optimization: A Population-Based Metaheuristic Inspired by Multi-Drain Free-Vortex Flow"
+  authors:
+    - family-names: "Omidi"
+      given-names: "Mohsen"
+    - family-names: "Vaughan"
+      given-names: "Brian"
+  year: 2026
+  doi: "10.48550/arXiv.2605.08883"
+  url: "https://arxiv.org/abs/2605.08883"
+```
