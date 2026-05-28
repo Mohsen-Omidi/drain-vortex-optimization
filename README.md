@@ -144,19 +144,20 @@ These files include the merged results after adding SVOA to the comparison.
 
 ## Citation
 
-If you use this code, please cite the associated preprint:
+If you use this code or find this work useful, please cite the associated arXiv preprint:
 
 ```bibtex
-@article{omidi2026dvo,
-  title   = {Drain-Vortex Optimization: A Physics-Inspired Metaheuristic Based on Radial and Tangential Drain-Vortex Dynamics},
-  author  = {Omidi, Mohsen and Vaughan, Brian},
-  year    = {2026},
-  note    = {Preprint},
-  doi ={https://doi.org/10.48550/arXiv.2605.08883
-}
+@misc{omidi2026dvo, title = {Drain-Vortex Optimization: A Population-Based Metaheuristic Inspired by Multi-Drain Free-Vortex Flow},
+author = {Omidi, Mohsen and Vaughan, Brian},
+year = {2026},
+eprint = {2605.08883},
+archivePrefix = {arXiv},
+primaryClass = {cs.NE},
+doi = {10.48550/arXiv.2605.08883},
+url = {https://arxiv.org/abs/2605.08883} }
 ```
 
-The BibTeX entry will be updated after the arXiv version becomes available.
+The preprint is available at: https://doi.org/10.48550/arXiv.2605.08883
 
 ## License
 
